@@ -1,4 +1,7 @@
 ## Outage Incident Report
+
+![240_F_201827920_dG3iOOiUE7r3y3cRY4mRAJCYngIVodRI](https://github.com/Serahnams/alx-system_engineering-devops/assets/128810177/ce3757fd-e359-471b-b1ee-2e2548295855)
+
 ## Issue Summary
 - Duration:
 Start Time: January 15, 2024, 09:30 AM EAT
